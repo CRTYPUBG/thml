@@ -1,2 +1,13 @@
-# thml
-THML (Türkiye HyperText Markup Language) is a Turkish-based frontend DSL and compiler that converts custom markup into HTML, JS, and CSS. Open-source React-like framework for Turkish developers.
+# THML
+
+THML (Türkiye HyperText Markup Language) is a lightweight frontend DSL.
+
+## Example
+
+<baslik>Merhaba Dünya</baslik>
+
+## Features
+- Turkish syntax
+- Compiler (AST)
+- React-like runtime
+- Open source
